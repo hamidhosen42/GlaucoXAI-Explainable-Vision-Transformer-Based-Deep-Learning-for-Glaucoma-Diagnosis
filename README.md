@@ -1,4 +1,4 @@
-# GlaucoXAI: Enhancing Glaucoma Diagnosis with Explainable AI Using Vision Transformers and Deep Learning Techniques
+# Enhancing Glaucoma Diagnosis with Explainable AI Using Vision Transformers and Deep Learning Techniques
 
 Glaucoma is a leading cause of irreversible blindness worldwide. This project introduces an explainable deep learning framework for early and accurate glaucoma diagnosis using retinal fundus images. The system leverages Vision Transformers (ViT) along with other CNN-based architectures, integrated with Grad-CAM for interpretability.
 
