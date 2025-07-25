@@ -33,6 +33,29 @@ To create a trustworthy AI system for glaucoma classification that supports clin
 - Canny & Sobel edge detection
 - Data augmentation: rotation, scaling, flipping, noise, contrast changes
 
+## 🔬 Visual Results
+
+### ✅ Confusion Matrix
+![Confusion Matrix](./image/Confusion-Matrix-of-the-Predictions-Using-ViT-model_W640.jpg)
+
+### ✅ Prediction Samples
+![Predictions](./image/Predictions-Using-ViT-model_W640.jpg)
+
+### ✅ Grad-CAM Visualization
+![Grad-CAM](./image/Grad-Cam-Visualization_W640.jpg)
+
+### ✅ ViT Input Patches
+![ViT Patches](./image/mage-as-input-sequence-of-patches_W640.jpg)
+
+### ✅ Edge Detection (Canny & Sobel)
+![Canny and Sobel](./image/a-Canny-Edge-Detection-and-b-Sobel-filter_W640.jpg)
+
+### ✅ CLAHE & Green Channel Preprocessing
+![CLAHE Preprocessing](./image/a-Original-Image-b-Green-Channel-Image-and-c-CLAHE-Image_W640.jpg)
+
+### ✅ System Architecture
+![System Architecture](./image/system.png)
+
 ## 🏗️ Models Implemented
 
 | Model             | Accuracy | Precision | Recall | F1-Score |
